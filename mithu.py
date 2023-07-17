@@ -1,1 +1,1 @@
-print("mithu")
+print("mithu is good")
